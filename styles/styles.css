@@ -5,17 +5,19 @@
     font-family: "Nunito", sans-serif;
 }
 
-header {
-    background-color: #018762;
-    width: 100vw;
+.navbar {
     height: 50px;
 }
 
 footer {
     background-color: #018762;
-    width: 100vw;
     height: 150px; 
 }
+
+footer img {
+    width: 100vw;
+}
+
 
 section {
     margin: 100px 0;
