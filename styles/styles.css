@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nunito", sans-serif;
+}
+
+header {
+    background-color: #018762;
+    width: 100vw;
+    height: 50px;
+}
+
+footer {
+    background-color: #018762;
+    width: 100vw;
+    height: 150px; 
+}
+
+section {
+    margin: 100px 0;
+}
