@@ -9,6 +9,12 @@
     height: 50px;
 }
 
+.quem-apoia-title {
+    color: #018762;
+}
+
+
+
 footer {
     background-color: #018762;
     height: 150px; 
@@ -20,5 +26,5 @@ footer img {
 
 
 section {
-    margin: 100px 0;
+    margin: 50px 0;
 }
