@@ -9,6 +9,30 @@
     height: 50px;
 }
 
+.button-lacrei {
+    background-color: #018762;
+    border: none;
+    padding: 8px 15px;
+    font-size: 1.06rem;
+    line-height: 150% !important;
+    box-shadow: rgba(0, 0, 0, 0.2) 4px 4px 4px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 150%;
+    color: rgb(255, 255, 255);
+}
+
+
+.button-lacrei:hover {
+    filter: brightness(1.1);
+    background-color: #018762;
+}
+
+.button-lacrei:active {
+    background-color: #018762 !important;
+}
+
 .quem-apoia {
     background: linear-gradient(to top right, #000 0%, #018762 70%, #66bfa0 100%);;
 }
@@ -47,7 +71,11 @@ section {
 }
 
 @media (min-width: 768px) {
-  .card {
+  
+  .button-lacrei{
+    width: 15.5rem;
+  }
+    .card {
     height: 130px; 
   }
 }
