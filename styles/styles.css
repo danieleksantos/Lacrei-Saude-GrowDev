@@ -32,27 +32,36 @@
   background-color: #018762 !important;
 }
 
-.quem-apoia {
-  background: linear-gradient(to top right, #000 0%, #018762 70%, #66bfa0 100%);
-}
-.quem-apoia-title {
-  color: #fff;
+/* nosso-compromisso */
+.nosso-compromisso h2 {
+  font-size: 30px;
 }
 
-.card {
-  display: flex;
-  justify-content: center;
+.icon-pilar {
+  font-size: 3rem; 
+  color: #018762;; 
+}
+
+.pilar-item {
+  margin-bottom: 2rem;
+}
+
+.icon-container {
+  display: inline-flex;
   align-items: center;
-  width: 100%;
-  height: 90px;
-  padding: 5px;
+  justify-content: center;
+  width: 100px; 
+  height: 100px; 
+  border: 2px solid #018762; 
+  border-radius: 50%;
+  margin-bottom: 1rem;
 }
 
-.card img {
-  object-fit: contain;
-  max-width: 100%;
-  max-height: 100%;
+.icon-container:hover {
+  transform: scale(1.1);
+  transition: all 0.3s ease-in-out;
 }
+
 
 /* Historia */
 .section-historia {
@@ -170,6 +179,37 @@
   column-gap: 16px;
 }
 
+.historia-button:hover {
+  color: #fff;
+}
+
+
+
+/* quem-apoia */
+
+.quem-apoia {
+  background: linear-gradient(to top right, #000 0%, #018762 70%, #66bfa0 100%);
+}
+
+.quem-apoia-title {
+  color: #fff;
+  font-size: 30px;
+}
+
+.quem-apoia .card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 90px;
+  padding: 5px;
+}
+
+.quem-apoia .card img {
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+}
 footer {
   background-color: #018762;
   height: 150px;
