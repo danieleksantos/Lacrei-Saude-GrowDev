@@ -1,10 +1,10 @@
 <table width="100%" border="0" style="border:none;">
   <tr>
     <td align="left" style="border:none;">
-      <img src="/assets/images/logo-lacrei" alt="Logo Lacrei Saúde" width="200"/>
+      <img src="https://lacreisaude.com.br/_next/static/media/logo_lacrei_mobile.1f3a65cb.svg" alt="Logo Lacrei Saúde" width="200"/>
     </td>
     <td align="right" style="border:none;">
-      <img src="/assets/images/logo-grow" alt="Logo Growdev" width="200"/>
+      <img src="https://growdev.com.br/wp-content/uploads/2025/02/growdev-logo.png" alt="Logo Growdev" width="200"/>
     </td>
   </tr>
 </table>
