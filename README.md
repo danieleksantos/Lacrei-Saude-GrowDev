@@ -20,7 +20,7 @@ Visite a versão online:
 
 ### Estrutura
 Lacrei-Saude-GrowDev/
-│
+
 ├── index.html # Página principal com seções principais
 ├── styles/ # Estilos em CSS
 ├── assets/images/ # Imagens utilizadas no site
