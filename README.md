@@ -1,13 +1,8 @@
-<table width="100%" border="0" style="border:none;">
-  <tr>
-    <td align="left" style="border:none;">
-      <img src="https://lacreisaude.com.br/_next/static/media/logo_lacrei_mobile.1f3a65cb.svg" alt="Logo Lacrei Saúde" width="200"/>
-    </td>
-    <td align="right" style="border:none;">
-      <img src="https://growdev.com.br/wp-content/uploads/2025/02/growdev-logo.png" alt="Logo Growdev" width="200"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://lacreisaude.com.br/_next/static/media/logo_lacrei_mobile.1f3a65cb.svg" alt="Logo Lacrei Saúde" width="200"/>
+  <img src="https://growdev.com.br/wp-content/uploads/2025/02/growdev-logo.png" alt="Logo Growdev" width="200"/>
+</div>
+ 
 # Lacrei Saúde + GrowDev
 
 ## :rocket: Visão Geral
