@@ -2,10 +2,6 @@
 # Lacrei Saúde + GrowDev
 
 ## :rocket: Visão Geral
-
-## :rocket: Visão Geral
-
-## :rocket: Visão Geral
 Projeto frontend inspirado no site oficial da **Lacrei Saúde**, desenvolvido durante o **Bootcamp Empresas - GrowDev** para aplicação de conhecimento em **contextos reais com trabalho em equipe**.  
 
 Antes de iniciar o desenvolvimento, foi criado um **wireframe** como guia visual do layout e da estrutura das páginas. Essa etapa permitiu alinhar ideias, organizar os componentes e planejar a responsividade do projeto.  
