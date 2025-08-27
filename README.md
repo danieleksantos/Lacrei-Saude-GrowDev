@@ -1,4 +1,4 @@
-  <img src="./logo-lacrei-grow.png" />
+  <img src="./assets/images/logo-lacrei-grow.png" />
 
 ## :rocket: Visão Geral
 Projeto frontend inspirado no site oficial da **Lacrei Saúde**, desenvolvido durante o **Bootcamp Empresas - GrowDev** para aplicação de conhecimento em **contextos reais com trabalho em equipe**.  
