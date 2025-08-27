@@ -19,13 +19,13 @@ Visite a versão online:
 **https://danieleksantos.github.io/Lacrei-Saude-GrowDev/** 
 
 ### Estrutura
-```
+   ```bash
 Lacrei-Saude-GrowDev/
 │
 ├── index.html # Página principal com seções principais
 ├── styles/ # Estilos em CSS
 ├── assets/images/ # Imagens utilizadas no site
-└── README.md # Este arquivo ```
+└── README.md # Este arquivo```
 
 ### Principais Seções 
 - **Banner + Formulário de login**: compromisso com inclusão, segurança, acessibilidade e acolhimento.
