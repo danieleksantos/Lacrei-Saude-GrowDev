@@ -1,9 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img src="https://lacreisaude.com.br/_next/static/media/logo_lacrei_mobile.1f3a65cb.svg" alt="Logo Lacrei Saúde" width="200"/>
-  <img src="https://growdev.com.br/wp-content/uploads/2025/02/growdev-logo.png" alt="Logo Growdev" width="200"/>
-</div>
- 
-# Lacrei Saúde + GrowDev
+  <img src="./logo-lacrei-grow.png" />
 
 ## :rocket: Visão Geral
 Projeto frontend inspirado no site oficial da **Lacrei Saúde**, desenvolvido durante o **Bootcamp Empresas - GrowDev** para aplicação de conhecimento em **contextos reais com trabalho em equipe**.  
