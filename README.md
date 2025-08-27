@@ -22,8 +22,11 @@ Visite a versão online:
 Lacrei-Saude-GrowDev/
 
 ├── index.html # Página principal com seções principais
+
 ├── styles/ # Estilos em CSS
+
 ├── assets/images/ # Imagens utilizadas no site
+
 └── README.md # Este arquivo
 
 ### Principais Seções 
