@@ -1,4 +1,13 @@
-
+<table width="100%" border="0" style="border:none;">
+  <tr>
+    <td align="left" style="border:none;">
+      <img src="assets/images/logo-lacrei" alt="Logo Lacrei Saúde" width="200"/>
+    </td>
+    <td align="right" style="border:none;">
+      <img src="assets/images/logo-grow" alt="Logo Growdev" width="200"/>
+    </td>
+  </tr>
+</table>
 # Lacrei Saúde + GrowDev
 
 ## :rocket: Visão Geral
