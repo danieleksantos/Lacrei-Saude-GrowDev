@@ -188,7 +188,17 @@
   color: #fff;
 }
 
+/* Passo-a-passo */
 
+.passo-button {
+  /* padding: 10px; */
+  margin-top: 40px;
+ 
+}
+
+.passo-title{
+  margin-bottom: 20px;
+}
 
 /* quem-apoia */
 
