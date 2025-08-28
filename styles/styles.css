@@ -258,3 +258,16 @@ section {
     margin-left: 0;
   }
 }
+
+.accordion-button {
+    background-color: #f0efef;
+
+}
+.accordion-button:not(.collapsed) {
+  background-color: #018762;
+  color: #fff;
+}
+
+/* .accordion-button:focus {
+  box-shadow: none !important;
+} */
