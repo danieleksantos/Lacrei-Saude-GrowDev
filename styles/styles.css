@@ -250,15 +250,6 @@ section {
   box-shadow: none !important;
 }
 
-footer {
-  background-color: #018762;
-  height: 150px;
-}
-
-footer img {
-  width: 100vw;
-}
-
 @media (min-width: 768px) {
   .button-lacrei {
     width: 15.5rem;
@@ -381,3 +372,141 @@ h1 {
   border: 2px solid #5cb85c; /* Exemplo: muda a cor da borda para verde em foco */
 }
 /* Fim Formulário Thaís Andrade */
+
+/*Footer*/
+
+footer {
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  color: rgb(31, 31, 31);
+  display: block;
+  font-size: 16px;
+  margin-left: 49px;
+  margin-right: 49px;
+  max-width: 1196;
+  padding: 0px;
+}
+
+.footer-bar {
+  background-color: #5cb85c;
+  box-sizing: border-box;
+  color: rgb(31, 31, 31);
+  display: flex;
+  flex-grow: 1%;
+  flex-shrink: 1%;
+  font-size: 16px;
+  height: 1px;
+  margin-bottom: 48px;
+  max-width: 1196;
+}
+
+.footer-content {
+  display: flex;
+  height: 244px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: auto;
+  padding-bottom: 48px;
+  position: relative;
+  width: 1196px;
+}
+
+.footer-content-icons {
+  column-gap: 56px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 56px;
+}
+
+.footer-icon {
+  aspect-ratio: auto 170/ 48;
+  box-sizing: border-box;
+  cursor: pointer;
+  height: 48px;
+  margin: 0px;
+  padding: 0px;
+  width: 170px;
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-icons a img {
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  width: 24px;
+}
+
+.footer-content ul {
+  display: flex;
+  column-gap: 16px;
+  flex-direction: column;
+  list-style: none;
+  row-gap: 16px;
+}
+
+.footer ul li h2 {
+  color: rgb(31, 31, 31);
+  display: block;
+  font-size: 18px;
+  font-weight: 700;
+  list-style: none;
+  margin-block-end: 8px;
+}
+
+.footer ul li a {
+  color: rgb(31, 31, 31);
+  cursor: pointer;
+  display: inline;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.footer-infos {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  flex-wrap: wrap; /* CORRIGIDO: Adicionada a quebra de linha */
+  column-gap: 32px;
+  margin-bottom: 24px;
+  row-gap: 32px;
+  max-width: 1196px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer-infos-p {
+  color: rgb (81, 81, 81);
+  display: flex;
+  align-items: flex-start;
+  column-gap: 8px;
+  flex-direction: column;
+  font-size: 12px;
+  row-gap: 8px;
+  width: auto;
+}
+
+.footer-infos p {
+  display: block;
+}
+
+.footer-button {
+  height: 48px;
+  width: 48px;
+}
+
+@media (max-width: 768px) {
+  .logo-lacrei-footer {
+    display: none;
+  }
+
+  .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+}
