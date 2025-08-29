@@ -45,10 +45,9 @@ section {
   font-size: 20px;
 }
 
-
 .icon-pilar {
-  font-size: 3rem; 
-  color: #018762;; 
+  font-size: 3rem;
+  color: #018762;
 }
 
 .nosso-compromisso .icon-pilar {
@@ -63,23 +62,22 @@ section {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 100px; 
-  height: 100px; 
-  border: 2px solid #018762; 
+  width: 100px;
+  height: 100px;
+  border: 2px solid #018762;
   border-radius: 50%;
   margin-bottom: 1rem;
 }
 
 .nosso-compromisso .icon-container {
-  border: 2px solid #FFF; 
-background-color: #018762;
+  border: 2px solid #fff;
+  background-color: #018762;
 }
 
 .icon-container:hover {
   transform: scale(1.1);
   transition: all 0.3s ease-in-out;
 }
-
 
 /* Historia */
 .section-historia {
@@ -206,10 +204,9 @@ background-color: #018762;
 .passo-button {
   /* padding: 10px; */
   margin-top: 40px;
- 
 }
 
-.passo-title{
+.passo-title {
   margin-bottom: 20px;
 }
 
@@ -242,8 +239,7 @@ background-color: #018762;
 /* duvidas */
 
 .accordion-button {
-    background-color: #f0efef;
-
+  background-color: #f0efef;
 }
 .accordion-button:not(.collapsed) {
   background-color: #018762;
@@ -252,7 +248,7 @@ background-color: #018762;
 
 .accordion-button:focus {
   box-shadow: none !important;
-} 
+}
 
 footer {
   background-color: #018762;
@@ -280,6 +276,10 @@ footer img {
   .div-historia-conteudo {
     width: 100%;
     margin-left: 0;
+  }
+
+  .historia-button {
+    width: 100%;
   }
 }
 
@@ -344,7 +344,7 @@ h1 {
 .button-criar-conta:hover {
   border-radius: 8px;
   background-color: #018762;
-  color: #FFF;
+  color: #fff;
 }
 
 .button-login:hover,
@@ -372,7 +372,7 @@ h1 {
 }
 
 .btn-outline-success:hover i {
-  color: #FFFFFF !important;
+  color: #ffffff !important;
 }
 
 .btn:focus,
