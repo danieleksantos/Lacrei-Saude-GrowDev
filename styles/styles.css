@@ -376,6 +376,8 @@ h1 {
 /*Footer*/
 
 footer {
+  display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   box-sizing: border-box;
@@ -500,13 +502,41 @@ footer {
 }
 
 @media (max-width: 768px) {
-  .logo-lacrei-footer {
-    display: none;
+  .footer-content {
+    flex-direction: column;
+    align-items: center; 
+    gap: 32px;
+    height: auto;
+    width: auto;
+  }
+      
+  .footer-content-icons {
+    flex-direction: column;
+    align-items: center; 
+    width: 100%;
+    gap: 24px;
+    margin-bottom: 0;
   }
 
-  .footer-content {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
+  .footer-icons {
+    justify-content: center;
+    gap: 24px;
   }
+      
+  .footer-content ul {
+    width: 100%;
+    text-align: center;
+    gap: 16px;
+    padding-left: 0rem;
+  }
+      
+  .footer-infos {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-infos-p {
+    align-items: center;
+}
 }
